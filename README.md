@@ -22,10 +22,10 @@ Files are organised **by type**, not by session — many assets are reused acros
 Everything is fetched by raw URL. Nothing needs to be cloned.
 
 ```python
-BASE = "https://raw.githubusercontent.com/USERNAME/REPO/main/"
+BASE = "https://raw.githubusercontent.com/skaloudis/bip/main/"
 ```
 
-
+`https://github.com/skaloudis/bip`
 
 ## Contents and sources
 
