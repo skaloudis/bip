@@ -25,33 +25,7 @@ Everything is fetched by raw URL. Nothing needs to be cloned.
 BASE = "https://raw.githubusercontent.com/USERNAME/REPO/main/"
 ```
 
-**Images**
 
-```python
-import requests
-from PIL import Image
-from io import BytesIO
-
-def load_image(name):
-    r = requests.get(BASE + "images/" + name, timeout=10)
-    r.raise_for_status()
-    return Image.open(BytesIO(r.content)).convert("RGB")
-
-img = load_image("pizza.jpg")
-```
-
-**Tables**
-
-```python
-import pandas as pd
-df = pd.read_csv(BASE + "datasets/nutrients.csv")
-```
-
-**Text**
-
-```python
-recalls = requests.get(BASE + "texts/example_recalls.txt", timeout=10).text.splitlines()
-```
 
 ## Contents and sources
 
@@ -68,8 +42,10 @@ Each folder has its own `README.md` listing every file, what it contains, which 
 
 ## Contact
 
-Dr Stathis Kaloudis — stathiskaloudis@aegean.gr
-Dr Vasiliki Bountziouka — vboun@aegean.gr
+Dr Stathis Kaloudis — `stathiskaloudis@aegean.gr`
+
+Dr Vasiliki Bountziouka — `vboun@aegean.gr`
 
 website [pygad.fns.aegean.gr/BIP](https://pygad.fns.aegean.gr/index.php/bip/)
+
 [eclass course page]  https://eclass.aegean.gr/courses/FNS-OTHER166/ 
