@@ -1,0 +1,17 @@
+food,food_group,kcal_100g,protein_g,carb_g,fat_g,fibre_g
+pizza,grains,266,11.0,33.0,10.0,2.3
+green salad,vegetables,20,1.2,3.7,0.2,1.6
+hamburger,protein,295,17.0,24.0,14.0,1.1
+french fries,grains,312,3.4,41.0,15.0,3.8
+banana,fruit,89,1.1,23.0,0.3,2.6
+apple,fruit,52,0.3,14.0,0.2,2.4
+rice,grains,130,2.7,28.0,0.3,0.4
+chicken,protein,165,31.0,0.0,3.6,0.0
+ice cream,dairy,207,3.5,24.0,11.0,0.7
+coffee with milk,drinks,12,0.7,1.2,0.6,0.0
+egg,protein,155,13.0,1.1,11.0,0.0
+bread,grains,265,9.0,49.0,3.2,2.7
+cheese,dairy,402,25.0,1.3,33.0,0.0
+yogurt,dairy,59,10.0,3.6,0.4,0.0
+tomato,vegetables,18,0.9,3.9,0.2,1.2
+orange juice,drinks,45,0.7,10.4,0.2,0.2
