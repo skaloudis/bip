@@ -1,4 +1,7 @@
 # bip
+
+![bip logo](BIP_logo_horizontal.png)
+
 Transforming nutritional research with artificial intelligence. An Erasmus+ Blended Intensive Programme
 
 
