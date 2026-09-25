@@ -37,10 +37,10 @@ BASE = "https://raw.githubusercontent.com/skaloudis/bip/main/"
 
 ## Contact
 
-Dr Stathis Kaloudis — `stathiskaloudis@aegean.gr`
+Stathis Kaloudis - `stathiskaloudis@aegean.gr`
 
-Dr Vasiliki Bountziouka — `vboun@aegean.gr`
+Vasiliki Bountziouka - `vboun@aegean.gr`
 
-website [pygad.fns.aegean.gr/BIP](https://pygad.fns.aegean.gr/index.php/bip/)
+website: [pygad.fns.aegean.gr/BIP](https://pygad.fns.aegean.gr/index.php/bip/)
 
-[eclass course page]  https://eclass.aegean.gr/courses/FNS-OTHER166/ 
+[eclass course page](https://eclass.aegean.gr/courses/FNS-OTHER166/) 
